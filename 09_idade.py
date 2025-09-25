@@ -26,4 +26,6 @@ while teste == "1":
 #-------------------------------------------------------------------
 #Pegar o código no GitHub do Caio
 
-https://servicodados.ibge.gov.br/api/docs/
+
+
+#https://servicodados.ibge.gov.br/api/docs/
