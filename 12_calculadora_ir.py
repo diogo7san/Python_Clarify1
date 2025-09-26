@@ -18,5 +18,5 @@ def calculadora_ir(salario_bruto):
 salario_bruto = float(input("Informe seu salário bruto: \n"))
 imposto = calculadora_ir(salario_bruto)
 print(f"O imposto de renda devido é de R$ {imposto}")
-salario_liquido = salario_bruto - imposto
+salario_liquido = salario_bruto - imposto #importante declarar a variável, ao invés de fazer a conta dentro da string.
 print(f"Seu salário líquido é {salario_liquido}")
